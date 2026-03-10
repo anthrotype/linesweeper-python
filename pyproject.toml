@@ -10,6 +10,7 @@ classifiers = [
     "Programming Language :: Python :: Implementation :: CPython",
 ]
 dynamic = ["version"]
+readme = "README.md"
 
 [project.optional-dependencies]
 test = [
