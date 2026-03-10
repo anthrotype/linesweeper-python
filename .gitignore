@@ -6,6 +6,8 @@ Cargo.lock
 __pycache__/
 *.py[cod]
 *.so
+*.dylib
+*.dSYM/
 *.egg-info/
 dist/
 build/
